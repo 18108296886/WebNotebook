@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'centos7-latest'
+  vmImage: 'ubuntu-latest'
 
 
 variables:
