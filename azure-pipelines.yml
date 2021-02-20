@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  vmImage: 'Ubuntu-20.04-latest'
+  vmImage: 'Ubuntu-20.04'
 
 
 variables:
