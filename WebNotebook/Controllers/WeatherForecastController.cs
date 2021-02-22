@@ -13,7 +13,7 @@ namespace WebNotebook.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","水电费第三方"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","水电费第三方","ssdfsdf"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
